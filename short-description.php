@@ -1,4 +1,8 @@
 <?php
+/**
+ * @text String 
+ * @length int
+ */
 function createTextPreview($text, $length=25) {
     /*
      * Break the text apart at the spaces and create the preview variable
