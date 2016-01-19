@@ -1,0 +1,1937 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mail",
+				"mail_conf"
+			],
+			[
+				"main",
+				"mainNav"
+			],
+			[
+				"contac",
+				"contact_us"
+			],
+			[
+				"contact",
+				"contactus_form"
+			],
+			[
+				"phone",
+				"phone_number"
+			],
+			[
+				"function",
+				"function_exists"
+			],
+			[
+				"upload",
+				"UPLOAD_DIR"
+			],
+			[
+				"med",
+				"media_pdf"
+			],
+			[
+				"pos",
+				"posted_data"
+			],
+			[
+				"confirm",
+				"confirm_password"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cat",
+				"cat_res"
+			],
+			[
+				"pr",
+				"printf"
+			],
+			[
+				"media",
+				"mediaType"
+			],
+			[
+				"dele",
+				"delete_media_files"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"create",
+				"createTextPreview"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"medi",
+				"mediaType"
+			],
+			[
+				"fetch",
+				"fetch1"
+			],
+			[
+				"custom",
+				"customException"
+			],
+			[
+				"num",
+				"num2"
+			],
+			[
+				"mysql_conne",
+				"mysql_connect"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql_sele",
+				"mysql_select_db"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier.html",
+			"settings":
+			{
+				"buffer_size": 5819,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier_ssa_250m.html",
+			"settings":
+			{
+				"buffer_size": 19990,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_edit.php",
+			"settings":
+			{
+				"buffer_size": 14357,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/controllers/products.php",
+			"settings":
+			{
+				"buffer_size": 49766,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_add.php",
+			"settings":
+			{
+				"buffer_size": 2378,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_header.php",
+			"settings":
+			{
+				"buffer_size": 2582,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/top_application.php",
+			"settings":
+			{
+				"buffer_size": 2939,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/designer/themes/default/js/custom.js",
+			"settings":
+			{
+				"buffer_size": 927,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_edit.php",
+			"settings":
+			{
+				"buffer_size": 3227,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_list.php",
+			"settings":
+			{
+				"buffer_size": 8988,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/libraries/MY_Upload.php",
+			"settings":
+			{
+				"buffer_size": 3340,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/controllers/products.php",
+			"settings":
+			{
+				"buffer_size": 10976,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/models/product_model.php",
+			"settings":
+			{
+				"buffer_size": 18954,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/helpers/ckeditor_helper.php",
+			"settings":
+			{
+				"buffer_size": 7668,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/developers/js/ckeditor/config.js",
+			"settings":
+			{
+				"buffer_size": 365,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\" />\n    <meta name=\"description\" content=\"\">\n    <meta name=\"keywords\" content=\"\">\n    <title>::. Marathon .::</title>\n    <link href=\"css/main.css\" rel=\"stylesheet\">\n    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n    <script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\n    <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n<![endif]-->\n    <script type=\"text/javascript\" src=\"js/jquery.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/jquery.bxslider.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/custom.js\"></script>\n    <script type=\"text/javascript\" src=\"js/menuzord.js\"></script>\n    <script type=\"text/javascript\">\n    jQuery(document).ready(function() {\n        jQuery(\"#menuzord\").menuzord({\n            align: \"right\"\n        });\n    });\n    </script>\n</head>\n\n<body>\n    <!--Header Start-->\n    <header>\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"logo\">\n                    <a href=\"index.html\"><img src=\"images/logo.png\" alt=\"Marathon\" title=\"Marathon\" /></a>\n                </div>\n                <div class=\"cont\">\n                    <p><span>Call us now toll free:</span> 1-300-123-123\n                    </p>\n                </div>\n            </div>\n        </div>\n        <section class=\"nav_container\" id=\"navbarMain\">\n            <div class=\"container\">\n                <nav class=\"navbar navbar-inverse\" role=\"navigation\">\n                    <div class=\"container-fluid\">\n                        <div class=\"navbar-header\">\n                            <button type=\"button\" id=\"nav-toggle\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#main-nav\">\n                                <span class=\"sr-only\">Toggle navigation</span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                            </button>\n                        </div>\n                        <!--/.navbar-header-->\n                        <div id=\"main-nav\" class=\"collapse navbar-collapse\">\n                            <ul class=\"nav navbar-nav\">\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"home\">Home</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"section1\">About Us</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"products\">Products</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"installaton\">Installation</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"network\">Network</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"events\">Events</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"career\">Career</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"contact_us\">Contact US</a></li>\n                            </ul>\n                        </div>\n                        <!--/.navbar-collapse-->\n                    </div>\n                </nav>\n            </div>\n            </div>\n        </section>\n    </header>\n    <!--Header End-->\n    <!--Home page banner slider-->\n    <section class=\"products_detail\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-6\">\n                    <div class=\"image_area\">\n                        <script src=\"js/jquery-1.11.1.min.js\"></script>\n                        <script type=\"text/javascript\" src=\"js/image_zoom.js\"></script>\n                        <div class=\"thumb-image\"> <img data-imagezoom=\"true\" src=\"images/products/products_inner/amplifier/ssa250_big.png\"> </div>\n                    </div>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"product_detail_right\">\n                        <div class=\"product_detail_title\">\n                            <h1>Amplifier</h1>\n                            <h2>Installation PA Amplifiers</h2>\n                        </div>\n                        <div class=\"product_detail_right_inner\">\n                            <h3>PAM-3001Z</h3>\n                            <h4>325 WATTS</h4>\n                            <span>AC &amp; 24V DC Operation</span>\n                            <ul>\n                                <li>5 Mic, 3 Aux & 1 Telephone Inputs.</li>\n                                <li>Features and specifications are similar to PAM-3001.</li>\n                                <li>PAM-3001Z has the additional feature of distributing the total load of 100V line amongst 5 speaker zones, allowing the output to designated areas. The zones are selectable through a zone selector push-button switch on the front panel.</li>\n                                <li>Ideal for use in commercial establishments where the building may be sectionised in different areas such as office, warehouse, workshop etc.</li>\n                                <li>19” Rack mountable.</li>\n                            </ul>\n                        </div>\n                        <a class=\"fancybox send_enquiry fancybox.iframe\" href=\"enquiry.html\">Send Inquiry</a>\n                    </div>\n                </div>\n                <div class=\"col-md-12\">\n                    <div class=\"container\">\n                        <ul class=\"nav nav-tabs\">\n                            <li><a data-toggle=\"tab\" href=\"#menu1\">SPECIFICATIONS</a></li>\n                            <li><a data-toggle=\"tab\" href=\"#menu2\">LITERATURE</a></li>\n                            <li><a data-toggle=\"tab\" href=\"#menu3\">BACK VIEW</a></li>\n                        </ul>\n                        <div class=\"tab-content\">\n                            <div id=\"menu1\" class=\"tab-pane fade in active\">\n                                <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n                                    <tbody>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Power Output</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>415W Max., 325W RMS at 10% THD, 300W RMS at 5% THD, 275W RMS at 2% THD</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Output Regulation</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>≤ 2 dB, no load to full load at 1kHz</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Input Channels</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>3 × Mic 0.65mV/4.7kΩ, 2 × Mic 1.0mV/2kΩ, 1 × Line 1V/50kΩ, 2 × Aux 100mV/470kΩ, 1 × Aux 250mV/470kΩ, 1 × Telephone 150mV/10kΩ</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Frequency Response</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>50-15,000Hz ±3dB</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Signal to Noise Ratio</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>60dB</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Tone Controls</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>Bass: ±10dB at 100Hz, Treble: ±10dB at 10kHz</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Outputs</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>Preamp 200mV/600Ω, Line 1V/1kΩ, Monitor 5V/8Ω</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Speaker Outputs</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>4Ω, 8Ω, 70V &amp; 100V</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Zone Selection</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>5 + All Zone</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Power Supply</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>AC: 220-240V 50/60Hz&emsp;DC: 24V (2×12V Car Battery)</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Power Consumption</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>AC: 600VA DC: 7A</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Dimensions</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>W482 × H133 × D390 mm</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Weight</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>19.8kg</p>\n                                            </td>\n                                        </tr>\n                                    </tbody>\n                                </table>\n                            </div>\n                            <div id=\"menu2\" class=\"tab-pane fade\">\n                                <div class=\"col-md-3\">Operation Manual</div>\n                                <div class=\"col-md-3\">7624 KB</div>\n                                <div class=\"col-md-3\">Download</div>\n                                <div class=\"col-md-3\">Print</div>\n                            </div>\n                            <div id=\"menu3\" class=\"tab-pane fade\">\n                                <img src=\"images/products/products_inner/amplifier/pam-3001z_back_view.png\">\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n    <!--Home content Section-->\n    <!--Start footer Section-->\n    <footer class=\"footer\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    <p>Copyright Lorem Ipsum 2015</p>\n                </div>\n            </div>\n        </div>\n    </footer>\n    <!--End footer Section-->\n    <script type=\"text/javascript\">\n    $(document).ready(function() {\n        // navigation click actions \n        $('.scroll-link').on('click', function(event) {\n            event.preventDefault();\n            var sectionID = $(this).attr(\"data-id\");\n            scrollToID('#' + sectionID, 750);\n        });\n        // scroll to top action\n        $('.scroll-top').on('click', function(event) {\n            event.preventDefault();\n            $('html, body').animate({\n                scrollTop: 0\n            }, 'slow');\n        });\n        // mobile nav toggle\n        $('#nav-toggle').on('click', function(event) {\n            event.preventDefault();\n            $('#main-nav').toggleClass(\"open\");\n        });\n    });\n    // scroll function\n    function scrollToID(id, speed) {\n        var offSet = 50;\n        var targetOffset = $(id).offset().top - offSet;\n        var mainNav = $('#main-nav');\n        $('html,body').animate({\n            scrollTop: targetOffset\n        }, speed);\n        if (mainNav.hasClass(\"open\")) {\n            mainNav.css(\"height\", \"1px\").removeClass(\"in\").addClass(\"collapse\");\n            mainNav.removeClass(\"open\");\n        }\n    }\n    if (typeof console === \"undefined\") {\n        console = {\n            log: function() {}\n        };\n    }\n    </script>\n    <!-- Add jQuery library -->\n    <script type=\"text/javascript\" src=\"js/jquery-1.10.1.min.js\"></script>\n    <!-- Add fancyBox main JS and CSS files -->\n    <script type=\"text/javascript\" src=\"js/jquery.fancybox.js?v=2.1.5\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/jquery.fancybox.css?v=2.1.5\" media=\"screen\" />\n    <script type=\"text/javascript\">\n    $(document).ready(function() {\n        /*\n         *  Simple image gallery. Uses default settings\n         */\n\n        $('.fancybox').fancybox();\n\n        /*\n         *  Different effects\n         */\n\n        // Change title type, overlay closing speed\n        $(\".fancybox-effects-a\").fancybox({\n            helpers: {\n                title: {\n                    type: 'outside'\n                },\n                overlay: {\n                    speedOut: 0\n                }\n            }\n        });\n\n        // Disable opening and closing animations, change title type\n        $(\".fancybox-effects-b\").fancybox({\n            openEffect: 'none',\n            closeEffect: 'none',\n\n            helpers: {\n                title: {\n                    type: 'over'\n                }\n            }\n        });\n\n        // Set custom style, close if clicked, change title type and overlay color\n        $(\".fancybox-effects-c\").fancybox({\n            wrapCSS: 'fancybox-custom',\n            closeClick: true,\n\n            openEffect: 'none',\n\n            helpers: {\n                title: {\n                    type: 'inside'\n                },\n                overlay: {\n                    css: {\n                        'background': 'rgba(238,238,238,0.85)'\n                    }\n                }\n            }\n        });\n\n        // Remove padding, set opening and closing animations, close if clicked and disable overlay\n        $(\".fancybox-effects-d\").fancybox({\n            padding: 0,\n\n            openEffect: 'elastic',\n            openSpeed: 150,\n\n            closeEffect: 'elastic',\n            closeSpeed: 150,\n\n            closeClick: true,\n\n            helpers: {\n                overlay: null\n            }\n        });\n\n        /*\n         *  Button helper. Disable animations, hide close button, change title type and content\n         */\n\n        $('.fancybox-buttons').fancybox({\n            openEffect: 'none',\n            closeEffect: 'none',\n\n            prevEffect: 'none',\n            nextEffect: 'none',\n\n            closeBtn: false,\n\n            helpers: {\n                title: {\n                    type: 'inside'\n                },\n                buttons: {}\n            },\n\n            afterLoad: function() {\n                this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');\n            }\n        });\n\n\n        /*\n         *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked\n         */\n\n        $('.fancybox-thumbs').fancybox({\n            prevEffect: 'none',\n            nextEffect: 'none',\n\n            closeBtn: false,\n            arrows: false,\n            nextClick: true,\n\n            helpers: {\n                thumbs: {\n                    width: 50,\n                    height: 50\n                }\n            }\n        });\n\n        /*\n         *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.\n         */\n        $('.fancybox-media')\n            .attr('rel', 'media-gallery')\n            .fancybox({\n                openEffect: 'none',\n                closeEffect: 'none',\n                prevEffect: 'none',\n                nextEffect: 'none',\n\n                arrows: false,\n                helpers: {\n                    media: {},\n                    buttons: {}\n                }\n            });\n\n        /*\n         *  Open manually\n         */\n\n        $(\"#fancybox-manual-a\").click(function() {\n            $.fancybox.open('1_b.jpg');\n        });\n\n        $(\"#fancybox-manual-b\").click(function() {\n            $.fancybox.open({\n                href: 'iframe.html',\n                type: 'iframe',\n                padding: 5\n            });\n        });\n\n        $(\"#fancybox-manual-c\").click(function() {\n            $.fancybox.open([{\n                href: '1_b.jpg',\n                title: 'My title'\n            }, {\n                href: '2_b.jpg',\n                title: '2nd title'\n            }, {\n                href: '3_b.jpg'\n            }], {\n                helpers: {\n                    thumbs: {\n                        width: 75,\n                        height: 50\n                    }\n                }\n            });\n        });\n\n\n    });\n    </script>\n</body>\n\n</html>\n",
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier_pam-3001z.html",
+			"file_size": 21031,
+			"file_write_time": 130961276580000000,
+			"settings":
+			{
+				"buffer_size": 20222,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!doctype html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\" />\n    <meta name=\"description\" content=\"\">\n    <meta name=\"keywords\" content=\"\">\n    <title>::. Marathon .::</title>\n    <link href=\"css/main.css\" rel=\"stylesheet\">\n    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->\n    <!--[if lt IE 9]>\n    <script src=\"https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js\"></script>\n    <script src=\"https://oss.maxcdn.com/respond/1.4.2/respond.min.js\"></script>\n<![endif]-->\n    <script type=\"text/javascript\" src=\"js/jquery.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/bootstrap.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/jquery.bxslider.min.js\"></script>\n    <script type=\"text/javascript\" src=\"js/custom.js\"></script>\n    <script type=\"text/javascript\" src=\"js/menuzord.js\"></script>\n    <script type=\"text/javascript\">\n    jQuery(document).ready(function() {\n        jQuery(\"#menuzord\").menuzord({\n            align: \"right\"\n        });\n    });\n    </script>\n</head>\n\n<body>\n    <!--Header Start-->\n    <header>\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"logo\">\n                    <a href=\"index.html\"><img src=\"images/logo.png\" alt=\"Marathon\" title=\"Marathon\" /></a>\n                </div>\n                <div class=\"cont\">\n                    <p><span>Call us now toll free:</span> 1-300-123-123\n                    </p>\n                </div>\n            </div>\n        </div>\n        <section class=\"nav_container\" id=\"navbarMain\">\n            <div class=\"container\">\n                <nav class=\"navbar navbar-inverse\" role=\"navigation\">\n                    <div class=\"container-fluid\">\n                        <div class=\"navbar-header\">\n                            <button type=\"button\" id=\"nav-toggle\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\"#main-nav\">\n                                <span class=\"sr-only\">Toggle navigation</span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                                <span class=\"icon-bar\"></span>\n                            </button>\n                        </div>\n                        <!--/.navbar-header-->\n                        <div id=\"main-nav\" class=\"collapse navbar-collapse\">\n                            <ul class=\"nav navbar-nav\">\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"home\">Home</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"section1\">About Us</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"products\">Products</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"installaton\">Installation</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"network\">Network</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"events\">Events</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"career\">Career</a></li>\n                                <li><a href=\"#\" class=\"scroll-link\" data-id=\"contact_us\">Contact US</a></li>\n                            </ul>\n                        </div>\n                        <!--/.navbar-collapse-->\n                    </div>\n                </nav>\n            </div>\n            </div>\n        </section>\n    </header>\n    <!--Header End-->\n    <!--Home page banner slider-->\n    <section class=\"products_detail\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-6\">\n                    <div class=\"image_area\">\n                        <script src=\"js/jquery-1.11.1.min.js\"></script>\n                        <script type=\"text/javascript\" src=\"js/image_zoom.js\"></script>\n                        <div class=\"thumb-image\"> <img data-imagezoom=\"true\" src=\"images/products/products_inner/amplifier/ssa250_big.png\"> </div>\n                    </div>\n                </div>\n                <div class=\"col-md-6\">\n                    <div class=\"product_detail_right\">\n                        <div class=\"product_detail_title\">\n                            <h1>Amplifier</h1>\n                            <h2>PA AMPLIFIER WITH BUILT-IN PLAYER</h2>\n                        </div>\n                        <div class=\"product_detail_right_inner\">\n                            <h3>DPA-770</h3>\n                            <h4>75 WATTS</h4>\n                            <span>AC &amp; 12V DC Operation</span>\n                            <ul>\n                                <li>4 Mic &amp; 1 Aux Input.</li>\n                                <li>Built-in MP3 player with USB reader and remote control.</li>\n                                <li>Line Output for connecting to a Booster Amplifier.</li>\n                                <li>Active Bass & Treble controls.</li>\n                                <li>Instant transfer to DC Power (Car Battery) if AC power fails.</li>\n                                <li>5 LED array for output level monitoring.</li>\n                            </ul>\n                        </div>\n                        <a class=\"fancybox send_enquiry fancybox.iframe\" href=\"enquiry.html\">Send Inquiry</a>\n                    </div>\n                </div>\n                <div class=\"col-md-12\">\n                    <div class=\"container\">\n                        <ul class=\"nav nav-tabs\">\n                            <li><a data-toggle=\"tab\" href=\"#menu1\">SPECIFICATIONS</a></li>\n                            <li><a data-toggle=\"tab\" href=\"#menu2\">LITERATURE</a></li>\n                            <li><a data-toggle=\"tab\" href=\"#menu3\">BACK VIEW</a></li>\n                        </ul>\n                        <div class=\"tab-content\">\n                            <div id=\"menu1\" class=\"tab-pane fade in active\">\n                                <table border=\"0\" cellspacing=\"0\" cellpadding=\"0\">\n                                    <tbody>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Power Output</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>100W Max., 75W RMS at 10% THD, 70W RMS at 5% THD</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Output Regulation</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>≤ 2 dB, no load to full load at 1kHz</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Input Channels</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>4 × Mic. 0.6mV/4.7kΩ, 1 × Aux 100mV/330kΩ</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Frequency Response</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>50-15,000Hz ±3dB</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Signal to Noise Ratio</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>55dB</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Tone Controls</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>Bass: -10dB +7dB at 100Hz, Treble: -10dB +7dB at 10kHz</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Outputs</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>Line: 1V/3.5kΩ</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Speaker Outputs</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>4Ω, 8Ω, 16Ω &amp; 100V</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Digital Player</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>MP3 Player with USB Reader</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Power Supply</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>AC: 220-240V 50/60Hz, DC: 12-14V Car Battery</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Power Consumption</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>AC: 140VA&emsp;DC: 3A</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Dimensions</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>W385 × H130 × D310 mm</p>\n                                            </td>\n                                        </tr>\n                                        <tr>\n                                            <td valign=\"top\" class=\"left_table\">\n                                                <p>Weight</p>\n                                            </td>\n                                            <td valign=\"top\" class=\"right_table\">\n                                                <p>9.6kg</p>\n                                            </td>\n                                        </tr>\n                                    </tbody>\n                                </table>\n                            </div>\n                            <div id=\"menu2\" class=\"tab-pane fade\">\n                                <div class=\"col-md-3\">Operation Manual</div>\n                                <div class=\"col-md-3\">2940 KB</div>\n                                <div class=\"col-md-3\">Download</div>\n                                <div class=\"col-md-3\">Print</div>\n                            </div>\n                            <div id=\"menu3\" class=\"tab-pane fade\">\n                                <img src=\"images/products/products_inner/amplifier/dpa-770_back_view.png\">\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n    <!--Home content Section-->\n    <!--Start footer Section-->\n    <footer class=\"footer\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-12\">\n                    <p>Copyright Lorem Ipsum 2015</p>\n                </div>\n            </div>\n        </div>\n    </footer>\n    <!--End footer Section-->\n    <script type=\"text/javascript\">\n    $(document).ready(function() {\n        // navigation click actions \n        $('.scroll-link').on('click', function(event) {\n            event.preventDefault();\n            var sectionID = $(this).attr(\"data-id\");\n            scrollToID('#' + sectionID, 750);\n        });\n        // scroll to top action\n        $('.scroll-top').on('click', function(event) {\n            event.preventDefault();\n            $('html, body').animate({\n                scrollTop: 0\n            }, 'slow');\n        });\n        // mobile nav toggle\n        $('#nav-toggle').on('click', function(event) {\n            event.preventDefault();\n            $('#main-nav').toggleClass(\"open\");\n        });\n    });\n    // scroll function\n    function scrollToID(id, speed) {\n        var offSet = 50;\n        var targetOffset = $(id).offset().top - offSet;\n        var mainNav = $('#main-nav');\n        $('html,body').animate({\n            scrollTop: targetOffset\n        }, speed);\n        if (mainNav.hasClass(\"open\")) {\n            mainNav.css(\"height\", \"1px\").removeClass(\"in\").addClass(\"collapse\");\n            mainNav.removeClass(\"open\");\n        }\n    }\n    if (typeof console === \"undefined\") {\n        console = {\n            log: function() {}\n        };\n    }\n    </script>\n    <!-- Add jQuery library -->\n    <script type=\"text/javascript\" src=\"js/jquery-1.10.1.min.js\"></script>\n    <!-- Add fancyBox main JS and CSS files -->\n    <script type=\"text/javascript\" src=\"js/jquery.fancybox.js?v=2.1.5\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/jquery.fancybox.css?v=2.1.5\" media=\"screen\" />\n    <script type=\"text/javascript\">\n    $(document).ready(function() {\n        /*\n         *  Simple image gallery. Uses default settings\n         */\n\n        $('.fancybox').fancybox();\n\n        /*\n         *  Different effects\n         */\n\n        // Change title type, overlay closing speed\n        $(\".fancybox-effects-a\").fancybox({\n            helpers: {\n                title: {\n                    type: 'outside'\n                },\n                overlay: {\n                    speedOut: 0\n                }\n            }\n        });\n\n        // Disable opening and closing animations, change title type\n        $(\".fancybox-effects-b\").fancybox({\n            openEffect: 'none',\n            closeEffect: 'none',\n\n            helpers: {\n                title: {\n                    type: 'over'\n                }\n            }\n        });\n\n        // Set custom style, close if clicked, change title type and overlay color\n        $(\".fancybox-effects-c\").fancybox({\n            wrapCSS: 'fancybox-custom',\n            closeClick: true,\n\n            openEffect: 'none',\n\n            helpers: {\n                title: {\n                    type: 'inside'\n                },\n                overlay: {\n                    css: {\n                        'background': 'rgba(238,238,238,0.85)'\n                    }\n                }\n            }\n        });\n\n        // Remove padding, set opening and closing animations, close if clicked and disable overlay\n        $(\".fancybox-effects-d\").fancybox({\n            padding: 0,\n\n            openEffect: 'elastic',\n            openSpeed: 150,\n\n            closeEffect: 'elastic',\n            closeSpeed: 150,\n\n            closeClick: true,\n\n            helpers: {\n                overlay: null\n            }\n        });\n\n        /*\n         *  Button helper. Disable animations, hide close button, change title type and content\n         */\n\n        $('.fancybox-buttons').fancybox({\n            openEffect: 'none',\n            closeEffect: 'none',\n\n            prevEffect: 'none',\n            nextEffect: 'none',\n\n            closeBtn: false,\n\n            helpers: {\n                title: {\n                    type: 'inside'\n                },\n                buttons: {}\n            },\n\n            afterLoad: function() {\n                this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');\n            }\n        });\n\n\n        /*\n         *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked\n         */\n\n        $('.fancybox-thumbs').fancybox({\n            prevEffect: 'none',\n            nextEffect: 'none',\n\n            closeBtn: false,\n            arrows: false,\n            nextClick: true,\n\n            helpers: {\n                thumbs: {\n                    width: 50,\n                    height: 50\n                }\n            }\n        });\n\n        /*\n         *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.\n         */\n        $('.fancybox-media')\n            .attr('rel', 'media-gallery')\n            .fancybox({\n                openEffect: 'none',\n                closeEffect: 'none',\n                prevEffect: 'none',\n                nextEffect: 'none',\n\n                arrows: false,\n                helpers: {\n                    media: {},\n                    buttons: {}\n                }\n            });\n\n        /*\n         *  Open manually\n         */\n\n        $(\"#fancybox-manual-a\").click(function() {\n            $.fancybox.open('1_b.jpg');\n        });\n\n        $(\"#fancybox-manual-b\").click(function() {\n            $.fancybox.open({\n                href: 'iframe.html',\n                type: 'iframe',\n                padding: 5\n            });\n        });\n\n        $(\"#fancybox-manual-c\").click(function() {\n            $.fancybox.open([{\n                href: '1_b.jpg',\n                title: 'My title'\n            }, {\n                href: '2_b.jpg',\n                title: '2nd title'\n            }, {\n                href: '3_b.jpg'\n            }], {\n                helpers: {\n                    thumbs: {\n                        width: 75,\n                        height: 50\n                    }\n                }\n            });\n        });\n\n\n    });\n    </script>\n</body>\n\n</html>\n",
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier_dpa-770.html",
+			"file_size": 20717,
+			"file_write_time": 130961283360000000,
+			"settings":
+			{
+				"buffer_size": 19929,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_add.php",
+			"settings":
+			{
+				"buffer_size": 11239,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_list.php",
+			"settings":
+			{
+				"buffer_size": 10920,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/views/view_product_listing.php",
+			"settings":
+			{
+				"buffer_size": 940,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/views/view_product_details.php",
+			"settings":
+			{
+				"buffer_size": 2702,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/language/english/admin_lang.php",
+			"settings":
+			{
+				"buffer_size": 4560,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/config/application.php",
+			"settings":
+			{
+				"buffer_size": 5890,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/helpers/product_helper.php",
+			"settings":
+			{
+				"buffer_size": 3516,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/codeigniter/helpers/url_helper.php",
+			"settings":
+			{
+				"buffer_size": 12360,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<div style=\"width:400px; height:300px; text-align:center; vertical-align:middle; display:table-cell;\"><a href=\"<?php echo img_url();?>products/<?php echo $res['media'];?>\"  class=\"MagicZoomPlus\" id=\"Zoomer\"  title=\"\"><img src=\"<?php echo get_image('products',$res['media'],'400','300');?>\" style=\"max-width:400px; max-height:300px;\" class=\"db radius-10\"  alt=\"\"></a></div>\n\n<?php if($num_media>4){?>\n<div class=\"ac o-hid rel\" style=\"height:92px;\"> <a href=\"javascript:void(0)\" class=\"prev1\"><img src=\"<?php echo theme_url();?>images/arl.png\" width=\"14\" height=\"24\" class=\"fl mt37\" alt=\"\"></a> <a href=\"javascript:void(0)\" class=\"next1\"><img src=\"<?php echo theme_url();?>images/arr.png\" width=\"14\" height=\"24\" class=\"fr mt37\" alt=\"\"></a>\n<div class=\"fl ml8 mt10 rel o-hid\">\n<div class=\"scroll_details\">\n<?php }else{?>\n<div class=\"ac rel\" style=\"height:92px;\">\n<div class=\"ml8 rel o-hid\">\n<div>\n<?php }?>\n<ul class=\"myulx\" style=\"list-style:none;\">\n<?php\n	     foreach($media_res as $v){\n		     ?>\n<li style=\"float:left;\"><a href=\"<?php echo img_url();?>products/<?php echo $v['media'];?>\" rel=\"zoom-id:Zoomer\" rev=\"<?php echo get_image('products',$v['media'],'400','300');?>\"><img src=\"<?php echo get_image('products',$v['media'],'100','100');?>\" alt=\"\" width=\"80\" height=\"80\" class=\"db ml6 border1\"></a></li>\n<?php }?>\n</ul>\n</div>\n<div class=\"cb\"></div>\n</div>\n</div>\n<?php\n }\n else\n {\n     ?>\n     <img src=\"<?php echo get_image('products',$res['media'],'400','300','R');?>\" style=\"height:281px; width:400px;\" alt=\"\">\n     <?php\n }\n ?>\n<div class=\"cb pb5\"></div>\n</div>\n<div class=\"fr w50\">\n<p class=\"fs20 b lh22px\"><?php echo $res['product_name'];?></p>\n<p class=\"verd fs12 mt5\">Part Number : <?php echo $res['product_code'];?></p>\n<?php if($res['products_model']){?><p class=\"verd fs12 mt5\">Model No. : <?php echo $res['products_model'];?></p><?php }?>\n<?php  $brand_name=@get_value_from_table('tbl_brands','brand_name',array('brand_id'=>$res['brand_id']));?>\n<?php if($brand_name){?>\n<p class=\"verd fs12 mt5\">Brand : <?php echo $brand_name;?></p>\n<?php }?>\n\n<?php echo form_open(\"cart/add_to_cart/\".$res['products_id'],'id=\"my_form\"');?>\n<div class=\"p15 pb15 mt20 shadow1\">\n<p class=\"fs14\">Brand New Factory Packed  : <b class=\"red fs16\"><?php echo display_price($res['product_price']);?></b></p>\n<p class=\"fs14 mt5\">Refurbished Pricing : <b class=\"blue normal fs16\"><?php echo display_price($res['product_price_for_dealers']);?></b></p>\n<p class=\"pt10 gray\">For repair of this item - <span class=\"blue\"><a href=\"<?php echo base_url();?>pages/repair_requests/<?php echo $res['products_id'];?>\" class=\"u b\">Click Here</a></span></p>\n\n<?php if($res['is_in_stock']){?>\n<p class=\"mt15 verd fl mr10\"><b class=\"db pb6\">Qty :</b>\n<input name=\"qty\" type=\"text\" onkeyup=\"is_natural(this,'Quantity');\" onkeydown=\"is_natural(this,'Quantity');\" style=\"width:20px; font-size:18px; padding:5px; text-align:center;\" value=\"1\" class=\"radius-3 vam\">\n</p>\n<p class=\"mt35\"><a href=\"javascript:void(0);\" onclick=\"$('#my_form').submit();\" class=\"cart\">Add to Cart</a></p>\n<?php  }else{ ?>\n<p class=\"mt35\"><span href=\"javascript:void(0);\" class=\"cart\">Out Of Stock</span></p>\n<?php  } ?>\n<div class=\"cb pb15 bdr-b\"></div>\n<p class=\"pt15\">\n<?php $prd_review_row= $this->product_model->get_avarage_rating($res['products_id']);\n\n$num_rating=  @round($prd_review_row->average_rating);\n$num_reviews= @intval($prd_review_row->num_reviews);\n?>\n<?php\n$i=1;\nfor(;$i<=$num_rating;$i++)\n{?>\n    <img src=\"<?php echo theme_url();?>images/star_b1.png\" alt=\"\">\n<?php\n}\nfor($j=0;$j<=(5-$i);$j++)\n{?>\n    <img src=\"<?php echo theme_url();?>images/star_b0.png\" alt=\"\">\n<?php\n}\n?>\n\n</p>\n<p class=\"verd mt5\"> <span class=\"gray2 lht-24\">Reviews : <b><a href=\"#reviews\" class=\"undr scroll\"><?php echo $num_reviews;?></a></b></span> / <a href=\"#post_reviews\" class=\" button3 radius-25 vam scroll\" style=\"padding:0px 15px; line-height:20px; height:20px; font-size:11px\">What's Your Review</a></p>\n</div>\n<?php echo form_close();?>\n\n</div>\n<div class=\"cb\"></div>\n<div class=\"mt20 mr25\">\n\n<!--<div class=\"fl w27 mt30\">\n<p class=\"b black fs14 ttu\">Size</p>\n<p class=\"mt5\">\n<select name=\"\" style=\"width:120px;\" class=\"p5\">\n<option>Select Size</option>\n</select>\n</p>\n</div>\n\n<div class=\"fl w27 ml20 mt30\">\n<p class=\"b black fs14 ttu\">Available Colors</p>\n<div class=\"color mt5\"> <a href=\"javascript:void(0)\" style=\"background:#c00\" class=\"act\"></a> <a href=\"javascript:void(0)\" style=\"background:#02ca14\"></a> <a href=\"javascript:void(0)\" style=\"background:#caab02\"></a> <a href=\"javascript:void(0)\" style=\"background:#f8f8f8\"></a> <a href=\"javascript:void(0)\" style=\"background:#0c0ce5\"></a> <a href=\"javascript:void(0)\" style=\"background:#7cffc9\"></a> <a href=\"javascript:void(0)\" style=\"background:#f1ff7c\"></a>\n<div class=\"cb\"></div>\n</div>\n</div>\n-->\n\n<div class=\"cb\"></div>\n\n<div class=\"w50 fl\">\n<p class=\"mt20  treb blue b fs13 mr10\"><a href=\"<?php echo base_url();?>products/send_enquiry/<?php echo $res['products_id'];?>\" class=\"enquiry u\">Product Enquiry</a> <a href=\"<?php echo base_url();?>cart/add_to_wishlist/<?php echo $res['products_id'];?>\" class=\"u ml10\">Add to Wishlist</a> <a href=\"<?php echo base_url();?>pages/refer_to_friends/<?php echo $res['products_id'];?>\" class=\"refer u ml10\">Refer to Friend</a> <a href=\"javascript:print();\" class=\"u ml10\">Print</a></p>\n\n<?php \n$delivered_in= trim(strip_tags($res['delivered_in']));\nif($delivered_in){\n?>\n\n<p class=\"mt10\"><b>Delivered in <?php echo $res['delivered_in'];?></b><br>\n(Delivery time may vary on shipping address)</p>\n\n<?php }?>\n\n</div>\n\n<?php \n$how_to_care= trim(strip_tags($res['how_to_care']));\nif($how_to_care){\n?>\n<div class=\"w45 fr\">\n<p class=\"ttu fs14 b\">How to care ?</p>\n<div class=\"articles-bg mt10 p10\">\n<?php echo $res['how_to_care'];?>\n</div>\n</div>\n<?php }?>\n\n<div class=\"cb\"></div>\n</div>\n<div class=\"cb\"></div>\n\n<?php $description= trim(strip_tags($res['products_description']));\nif($description){\n?>\n<div class=\"mt25 aj\">\n<p class=\"ttu fs14 mt40 b\">More About</p>\n      <p class=\"fs20 black bdr-b pb10 b\"><?php echo $res['product_name'];?></p>\n      <div class=\"mt2 pr20 pt15\">\n		<?php echo $res['products_description'];?>\n      </div>\n</div>\n<?php }?>\n\n<div class=\"mt20\">\n\n<?php $prd_review_res= $this->product_model->get_product_reviews($res['products_id']);\n\nif(is_array($prd_review_res) && !empty($prd_review_res))\n{\n	?>\n\n    <a id=\"reviews\"></a>\n    <p class=\"ttu fs14 mt40  b\">User Reviews For</p>\n    <p class=\"fs20 black b \"><?php echo $res['product_name'];?></p>\n    <div class=\"mt10 p20 shadow1 pt10 mr25\">\n   \n    <?php\n    foreach($prd_review_res as $row)\n    {\n        ?>\n            <div class=\"pb25 bdr-b mt20\">\n            \n            <div>\n            <div class=\"bdr-b pb5\">\n            <p class=\"fs16 fl\">by <b class=\"blue\"><?php echo $row['author'];?></b></p>\n            <p class=\"fr\"><?php echo date('d/m/Y',strtotime($row['review_date']));?> \n            <span class=\"pl20\">\n            \n			<?php\n			$num_rating=  intval(@$row['rating']);\n            $i=1;\n            for(;$i<=$num_rating;$i++)\n            {?>\n                <img src=\"<?php echo theme_url();?>images/star_b1.png\" alt=\"\">\n            <?php\n            }\n            for($j=0;$j<=(5-$i);$j++)\n            {?>\n                <img src=\"<?php echo theme_url();?>images/star_b0.png\" alt=\"\">\n            <?php\n			}\n			?>\n            \n            </span></p>\n            <p class=\"cb\"></p>\n            </div>\n            <p class=\"mt15 i\"><?php echo nl2br($row['text']);?></p>\n            </div>\n            <div class=\"cb\"></div>\n            </div>\n        <?php\n        }\n        ?>\n    <?php\n    }\n    ?>\n    \n    </div>\n\n    <a id=\"post_reviews\"></a>\n    <p class=\"ttu fs14 mt40  b\">Give Your Review About</p>\n    <p class=\"fs20 black b \"><?php echo $res['product_name'];?></p>\n    \n	<?php echo form_open(current_url().\"#post_reviews\");\n	echo error_message();\n	?>\n        <div class=\"mt10 p20 shadow1 mr25\" style=\"background:url(<?php echo theme_url();?>images/post.png) no-repeat right bottom;\">\n        \n          <div class=\"cb\"></div>\n          <input type=\"hidden\" name=\"pid\" value=\"<?php echo $res['products_id'];?>\" />\n          <input type=\"hidden\" name=\"product_name\" value=\"<?php echo $res['product_name'];?>\" />\n          <p class=\"star-rating w100 mt5\">\n                <input class=\"stars\" type=\"radio\" title=\"Very Poor\" name=\"star_rating\" value=\"1\"/>\n                <input class=\"stars\" type=\"radio\" title=\"Poor\" name=\"star_rating\" value=\"2\" />\n                <input class=\"stars\" type=\"radio\" title=\"Average\" name=\"star_rating\" value=\"3\" />\n                <input class=\"stars\" type=\"radio\" title=\"Good\" name=\"star_rating\" value=\"4\" />\n                <input class=\"stars\" type=\"radio\" title=\"Excellent\" name=\"star_rating\" value=\"5\" />\n             <span id=\"ratingFlag\" class=\"ratingFlag vam lh25px\"><span>&nbsp;</span><em id=\"overallRatingFlagText\" title=\"\">Click To Rate</em></span>\n             <?php echo form_error('star_rating');?>\n          </p>\n              <p class=\"cb\"></p>\n          \n           <p class=\"mt5\">\n             <input type=\"text\" value=\"<?php echo set_value('author');?>\" name=\"author\" id=\"author\" class=\"p7\" style=\"width:210px;\" placeholder=\"Your Name\"> <input type=\"text\" value=\"<?php echo set_value('email');?>\" name=\"email\" id=\"email\" class=\"p7\" style=\"width:210px;\" placeholder=\"Your Email\">\n             <?php echo form_error('author');?>\n             <?php echo form_error('email');?>\n          </p>\n          \n          <p class=\"mt5\">\n            <textarea name=\"text\" id=\"text\" cols=\"60\" rows=\"2\" style=\"width:440px;\" class=\"p7\"  placeholder=\"Your Review *\"><?php echo set_value('text');?></textarea>\n            <?php echo form_error('text');?>\n          </p>\n      \n          \n         <p class=\"ttu mt5\"><label for=\"verification_code\">Word Verification: <b class=\"red\">*</b></label></p>\n        <p><input type=\"text\" name=\"verification_code\" id=\"verification_code\" autocomplete=\"off\" class=\"input-bdr2\" style=\"width:150px;\"> <img src=\"<?php echo site_url('captcha/normal'); ?>\" class=\"vam bdr ml20\" alt=\"\"  id=\"captchaimage\"/> <a href=\"javascript:void(0);\" title=\"Change Verification Code\"  ><img src=\"<?php echo theme_url(); ?>images/refresh-icon.png\"  alt=\"Refresh\"  onclick=\"document.getElementById('captchaimage').src='<?php echo site_url('captcha/normal'); ?>/<?php echo uniqid(time()); ?>'+Math.random(); document.getElementById('verification_code').focus();\" class=\"ml10 vam\"></a></p>\n        <?php echo form_error(\"verification_code\");?>\n        \n         <div class=\"cb\"></div>\n          <p class=\"mt5\">\n            <input name=\"task\" type=\"submit\" value=\"Post Now!\" class=\"submit\">\n          </p>\n        </div>\n        <?php  $star_rating= trim($this->input->get_post('star_rating'));\n		if($star_rating)\n		{\n		?>\n			<script>\n            $(\".stars[value='<?php echo $star_rating;?>']\").trigger('click');\n            var title=$(\".stars[value='<?php echo $star_rating;?>']\").attr('title');\n            $('#overallRatingFlagText').text(title);\n            </script>\n        <?php\n		}\n		?>\n    <?php echo form_close();?>\n\n</div>\n\n\n</div>\n\n  \n  \n<div class=\"cb\"></div>  \n\n<?php\nif(is_array($related_products) && !empty($related_products))\n{\n	?>\n    <!--Related Products-->\n    <div class=\"mt10\">\n    <p class=\"fs20 black b bdr-b pb8\">Related Product</p>\n    <div class=\"mt15\">\n    \n	<?php\n		$i=1;\n		foreach($related_products as $row)\n		{\n			$d['row']=$row;\n			$d['i']=$i;\n			$d['class']='ml9';\n			$d['per_row']=4;\n			$this->load->view('products/single_product_view',$d);\n			$i++;\n		}\n    ?>\n    \n    <div class=\"cb mb20\"></div>\n    </div>\n    \n    </div>\n    <!--Related Products-->\n    <?php\n}\n?>\n\n<?php\n//$this->load->model('products/product_model');\n$this->product_model->set_recently_view_products($res['products_id']);\n\n$recently_view_products=$this->product_model->get_recently_view_products(4);\nif(is_array($recently_view_products) && !empty($recently_view_products))\n{\n	?>\n    <!--Recently Viewed Products-->\n    <div class=\"mt10\">\n    <p class=\"fs20 black b bdr-b pb8\">Recently Viewed Product</p>\n    <div class=\"mt15\">\n    \n	<?php\n		$i=1;\n		foreach($recently_view_products as $row)\n		{\n			$d['row']=$row;\n			$d['i']=$i;\n			$d['class']='ml9';\n			$d['per_row']=4;\n			$this->load->view('products/single_product_view',$d);\n			$i++;\n		}\n    ?>\n    \n    <div class=\"cb mb20\"></div>\n    </div>\n    \n    </div>\n    <!--Recently Viewed Products-->\n    <?php\n}\n?>\n\n<!--Content-Ends--></div>\n<?php $this->load->view('project_right');?>",
+			"settings":
+			{
+				"buffer_size": 12538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/marathon/codeigniter/libraries/Email.php",
+			"settings":
+			{
+				"buffer_size": 47965,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php $this->load->view(\"project_header\");?>\n<style type=\"text/css\" media=\"screen\">\n<!--\n@import url(\"<?php echo theme_url();?>css/DG_Slider.css\");\n@import url(\"<?php echo theme_url();?>css/fluid_dg.css\");\n-->\n</style>\n\n<!-- #EndLibraryItem -->\n<?php\n/*$sql = \"SELECT * FROM tbl_banners WHERE banner_image!='' AND status='1' AND banner_position = 'Top' AND (ISNULL(banner_end_date) OR banner_end_date >= NOW() ) ORDER BY  RAND() LIMIT 10\";\n$query = $this->db->query($sql);\nif($query->num_rows() > 0)\n{\n	?>\n<div class=\"fluid_container\">\n<div class=\"fluid_dg_wrap fluid_dg_charcoal_skin fluid_container\" id=\"fluid_dg_wrap_1\">\n    <?php\n  $result_banner = $query->result_array();\n  foreach($result_banner as $val)\n  {\n	if($val['banner_image']!='' && file_exists(UPLOAD_DIR.\"/banner/\".$val['banner_image']))\n	{ \n	  ?>\n      <div data-src=\"<?php echo get_image('banner',$val['banner_image'],827,262);?>\" data-link=\"<?php echo $val['banner_url']?$val['banner_url']:'';?>\" data-target=\"_blank\"></div>\n      <?php\n	}\n  }\n  ?>\n</div>\n<div class=\"cb\"></div>\n</div>\n\n  <?php\n}*/\n?>\n<!--Home page banner slider-->\n <section class=\"slider\">\n     <ul class=\"homeslider has-error\">\n          <li>\n              <a href=\"javascript:\"><img src=\"<?php echo theme_url();?>images/slider/1.jpg\" alt=\"\" /></a>\n              <div class=\"caption\">\n                <h2>Professional Equipments</h2>\n                  <h3>For Conference</h3>\n                  <a href=\"#\" class=\"read_more\"></a>\n              </div>\n          </li>\n          \n          <li>\n              <a href=\"javascript:\"><img src=\"<?php echo theme_url();?>images/slider/1.jpg\" alt=\"\" /></a>\n               <div class=\"caption\">\n                <h2>Professional Equipments</h2>\n                  <h3>For Conference</h3>\n                  <a href=\"#\" class=\"read_more\"></a>\n              </div>\n          </li>\n          \n         \n      </ul>\n</section>\n\n<section class=\"about container-fluid\" id=\"section1\"> \n    <div class=\"container\">\n        <div class=\"row\">\n           <h1 class=\"title\">About Marathon</h1> \n           <h2>COMPANY PROFILE</h2>\n           <p>Marathon is the one of the leading company in the field of turnkey electronics solutions provider having tie ups with world leaders in Public Address System, Fire Alarm, Access Control, Security & Surveillance Technology. With over a decade of experience, Marathon  has now become a trusted name in the Turnkey Solution.</p>\n           \n           <p>The Company has a trained & Experienced team of Engineers & Management Professional Marathon  pro – activity strives to develop unique, sustainable & cost effective solutions, which offer clients latest in equipment & technology for combating mitigating risks, our commitment to the highest standards of quality & performance and an entrepreneurial corporate culture has created a flexible, responsive and market driven organization. </p>\n           <p>Marathon provides you one stop solution for all your Audio Video needs with latest state of technology .</p>\n           <h2>SOLUTIONS OFFERED</h2>\n           <ul>\n            <li>Integrated Turnkey Solutions</li>\n            <li>Specialized Solutions</li>\n            <li>Audio & Video Solution</li>\n            <li>Video Conferencing System</li>\n            <li>Public Address System</li>\n            <li>Network Solutions</li>\n            <li>CCTV Cameras</li>\n            <li>Access Control</li>\n            <li>Fire Alarm Systems</li>\n            <li>AMC Services</li>\n            <li>Personal Announcement Systems</li>\n           </ul>\n           \n        </div>\n    \n    </div>\n</section>\n\n<?php\n    $cat_limit = 6;\n    $this->load->model(array('category/category_model'));\n    $condtion_array = array(\n    'field' =>\"category_id,category_image\",\n    'condition'=>\"AND parent_id = '0' AND status = '1'\",\n    'order'=>'sort_order',\n    'limit'=>$cat_limit,\n    'offset'=>0,\n    'debug'=>FALSE\n    );\n    $cat_res = $this->category_model->getcategory($condtion_array,false);\n\n    if(is_array($cat_res) && !empty($cat_res))\n    {\n    ?>\n<section class=\"products\" id=\"products\">\n  <div class=\"container\"> \n    \n    <h1 class=\"title\">Our Products</h1>\n  \n      <ul class=\"slide2\">\n        <?php\n          foreach($cat_res as $v) {\n               $link_url = base_url().\"category/index/\".$v['category_id'];\n        ?>\n          <li><a href=\"<?php echo $link_url; ?>\">\n          <img src=\"<?php echo get_image('category',$v['category_image'],295,333);?>\" alt=\"\" /></a></li>\n       <?php } ?>\n          \n       </ul>\n      \n  </div>\n</section>\n<?php } ?>\n\n\n<!-- installation section  -->\n<section class=\"installaton\"id=\"installaton\">\n      <div class=\"container\">\n          <div class=\"row\">\n             <h1 class=\"title\">Installation</h1> \n             \n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/auditorium.png\"><h3>Auditorium & Conference Room</h3></a></div>\n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/educatonal.png\"><h3>Educational Institute</h3></a></div>\n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/places_of_worship.png\"><h3>Places Of Worship</h3></a></div>\n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/hospitality.png\"><h3>Hospitality</h3></a></div>\n             <div class=\"clearfix\"></div>\n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/offices.png\"><h3>Offices</h3></a></div>\n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/retail_malls.png\"><h3>Retail/Malls</h3></a></div>\n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/ausement_park.png\"><h3>Amusement Park</h3></a></div>\n             <div class=\"col-md-3\"><a href=\"#\"><img src=\"<?php echo theme_url();?>images/installation/mass_transit.png\"><h3>Mass Transit</h3></a></div>\n             \n          </div>\n      \n      </div>\n  </section><!-- installation section end -->\n\n<section class=\"our_network\" id=\"network\">\n    <div class=\"container\">\n        <div class=\"row\">\n           <h1 class=\"title\">Our Network</h1> \n            <img src=\"<?php echo theme_url();?>images/network_icon.png\">\n            <p>Support Network</p>\n          \n           \n        </div>\n    \n    </div>\n</section>\n    \n<section class=\"events\" id=\"events\">\n  <div class=\"container\">\n      <div class=\"row\">\n         <h1 class=\"title\">Events</h1> \n         <p>Coming Soon</p>\n        \n         \n      </div>\n  \n  </div>\n</section>\n\n\n<!-- career section  -->\n<section class=\"career\" id=\"career\">\n  <div class=\"container\">\n      <div class=\"row\">\n         <h1 class=\"title\">Career</h1> \n          <form class=\"form-inline\" role=\"form\">\n          \n          <div class=\"inline_content\">\n          <div class=\"form-group\">\n           <input type=\"email\" class=\"form-control\" id=\"name\" placeholder=\"Enter Name\">\n          </div>\n          \n          <div class=\"form-group\">\n            <input type=\"email\" class=\"form-control\" id=\"email\" placeholder=\"Enter email\">\n          </div>\n          \n          <div class=\"form-group\">\n            <input type=\"tel\" class=\"form-control\" id=\"phone\" placeholder=\"Enter Phone No.\">\n          </div>\n          </div>\n          \n           <div class=\"form-group full_width\">\n            <textarea class=\"form-control\" rows=\"5\" id=\"description\" placeholder=\"Short Description\"></textarea>\n            \n          </div>\n          \n          <div class=\"form-group full_width\">\n  <span class=\"resume\">Resume</span>\n            <input type=\"file\" name=\"image\" id=\"image\">\n          </div>\n           \n          \n          <button type=\"submit\" class=\"btn\">Submit</button>\n          \n        </form>\n        \n         \n      </div>\n  \n  </div>\n</section>\n\n\n<section class=\"contact_container\" id=\"contact_us\">\n  <div class=\"container\">\n    \n      <h1 class=\"title\">Contact Us</h1>\n      <?php echo form_open('',array('class' => 'form-inline', 'role'=>'form', 'name' => 'contactus_form', 'id' => 'contactus_form'));?>\n      <?php echo error_message();?>\n                      \n                <div class=\"inline_content\">\n                <div class=\"form-group\">\n                 <input type=\"text\" name=\"name\" value=\"<?php echo set_value('name');?>\" class=\"form-control\" id=\"name\" placeholder=\"Enter Name\">\n                 <?php echo form_error('name');?>\n                </div>\n                \n                <div class=\"form-group\">\n                  <input type=\"email\" name=\"email\" value=\"<?php echo set_value('email');?>\" class=\"form-control\" id=\"email\" placeholder=\"Enter email\">\n                  <?php echo form_error('email');?>\n                </div>\n                \n                <div class=\"form-group\">\n                  <input type=\"tel\" class=\"form-control\" name=\"phone_number\" value=\"<?php echo set_value('phone_number');?>\" id=\"phone_number\" placeholder=\"Enter Phone No.\">\n                  <?php echo form_error('phone_number');?>\n                </div>\n                </div>\n                \n                 <div class=\"form-group full_width\">\n                  <textarea class=\"form-control\" rows=\"5\" name=\"message\" value=\"<?php echo set_value('message');?>\" id=\"message\" placeholder=\"Message\"></textarea>\n                  <?php echo form_error('message');?>\n                  \n                </div>\n                 \n                 <div id=\"contactus_error_div\"></div>\n                \n                <button type=\"button\" id=\"nl_btn1\" onclick=\"ajax_contactus('contactus_form');\" class=\"btn\" name=\"action\">Submit</button>\n                <button type=\"button\" id=\"nl_btn2\" class=\"btn\" style=\"display: none;\" name=\"action\">Submitting...</button>\n                \n              <?php echo form_close();?>   \n              \n        \n        \n        <div class=\"address\">\n          <ul class=\"add\">\n              <li><strong>Marathon</strong></li>\n                <li><strong>Office Address:</strong></li>\n                <li>RZ 26p/264/ 3B indra Park Palam Colony </li>\n                <li>Street No 2 New Delhi -110045</li>\n            </ul>\n            \n            \n            <ul>\n              <li><span>Tel:</span> 9718927386</li>\n                <li><span>E-mail:</span> <a href=\"mailto:support@marathonindia.in\">support@marathonindia.in</a></li>\n            </ul>\n        </div>\n    \n      \n    \n    </div>\n</section>\n<section class=\"map\"><img src=\"<?php echo theme_url();?>images/map.jpg\"></section>\n\n<!--Home content Section-->\n\n\n<script type=\"text/javascript\">\nfunction ajax_contactus(formid)\n{\n  $('#nl_btn1').hide();\n  $('#nl_btn2').show();\n  \n  var fromdata =$('#'+formid).serialize();\n  $.post('<?php echo base_url();?>pages/ajax_contactus',fromdata,function(data){\n    \n    //$('img[id^=captchaimage]').attr('src','<?php echo site_url('captcha/normal'); ?>/<?php echo uniqid(time()); ?>'+Math.random());\n    \n    $('#contactus_error_div').html(data);\n    /*if(data.indexOf('subscribe')>=0)\n    {\n      contactus_form.reset();\n    }*/\n    \n    $('#nl_btn1').show();\n    $('#nl_btn2').hide();\n    return false;\n    });\n}\n</script>\n<?php $this->load->view(\"project_footer\");?>",
+			"settings":
+			{
+				"buffer_size": 11296,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/controllers/pages.php",
+			"settings":
+			{
+				"buffer_size": 20345,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules/pages/controllers/pages.php",
+			"settings":
+			{
+				"buffer_size": 20380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/models/pages_model.php",
+			"settings":
+			{
+				"buffer_size": 3900,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/helpers/display_message_helper.php",
+			"settings":
+			{
+				"buffer_size": 2426,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/views/contactus.php",
+			"settings":
+			{
+				"buffer_size": 7164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_right.php",
+			"settings":
+			{
+				"buffer_size": 5429,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/category/views/view_subcategory.php",
+			"settings":
+			{
+				"buffer_size": 1243,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_footer.php",
+			"settings":
+			{
+				"buffer_size": 336,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			" import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+			" import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/jarvez/skydrive/ubuntu/lampp",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules/pages",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules/pages/controllers",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/libraries",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/designer",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/designer/themes",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/designer/themes/default",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/designer/themes/default/js",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/codeigniter",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/codeigniter/libraries",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/home",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/home/controllers",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/home/views",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/controllers",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/views",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/uploaded_files",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html"
+	],
+	"file_history":
+	[
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/views/single_product_view.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/home/views/home.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/bottom_application.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/home/controllers/home.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/libraries/Dmailer.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/codeigniter/libraries/Email.php",
+		"/home/jarvez/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/jarvez/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/media/jarvez/skydrive/ubuntu/lampp/cms/admin/index.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/cms/admin/save_user.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/cms/admin/adduser.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/cms/admin/includes/config.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/owlers/admin/classes/Authenticate.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/index.html",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_footer.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/top_application.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_header.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/second-highest-number.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/query-related.text",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/models/product_model.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/core/MY_Model.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_add.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_edit.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_list.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/sitepanel/js/common.js",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/pdfs/view_pdf_list.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/controllers/products.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/core/Admin_Controller.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/sortings/bubble-sort.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/permutation.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/short-description.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/guest.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/fiboncci.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/my.sublime-project",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/sortings/quick-sort.php",
+		"/home/jarvez/Desktop/interview ",
+		"/opt/lampp/etc/php.ini",
+		"/home/jarvez/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/jarvez/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/permutation",
+		"/usr/lib/php5/20131226/xdebug.so",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pdfs/helpers/pdfs_helper.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/config/application.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/config/config.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/libraries/MY_Form_validation.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/include/include_functions.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/libraries/MY_Upload.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pdfs/models/pdfs_model.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/controllers/pdfs.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/pdfs/view_pdf_add.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/language/english/admin_lang.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_list.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_edit.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_add.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/codeigniter/helpers/form_helper.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/codeigniter/helpers/url_helper.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules/sitepanel/language/english/admin_lang.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules/sitepanel/controllers/dashbord.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules/sitepanel/sitepanel_routes.php",
+		"/home/jarvez/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/jarvez/Documents/ftps/marathon/send_career_details.php",
+		"/Documents/ftps/marathon/send_career_details.php",
+		"/home/jarvez/documents/ftps/marathon/send_career_details.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/apps/config/application.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/apps/libraries/Dmailer.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/apps/config/database.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/ciweb/index.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/innolabindia.in/index.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/innolabindia.in/modules/home/controllers/home.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/innolabindia.in/apps/themes/front/views/theme/header.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/innolabindia.in/apps/themes/front/views/theme/sidebar.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/innolabindia.in/.htaccess",
+		"/media/jarvez/skydrive/ubuntu/lampp/innolabindia.in/modules/admin/models/login_model.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/innolabindia.in/apps/config/database.php",
+		"/home/jarvez/Desktop/htdocs-bkup/cms/admin/check_login.php",
+		"/home/jarvez/Desktop/htdocs-bkup/cms/admin/index.php",
+		"/home/jarvez/Desktop/htdocs-bkup/cms/admin/users.php",
+		"/home/jarvez/Desktop/htdocs-bkup/cms/admin/logout.php",
+		"/home/jarvez/Desktop/htdocs-bkup/cms/admin/login.php",
+		"/media/jarvez/skydrive/ubuntu/lampp/practice-zone/array-functions.php",
+		"/media/jarvez/skydrive/ubuntu/commands",
+		"/opt/lampp/htdocs/practice-zone/interview-needs.txt",
+		"/opt/lampp/htdocs/practice-zone/exception-handling.php",
+		"/home/jarvez/start",
+		"/opt/lampp/htdocs/cms/working.php",
+		"/opt/lampp/htdocs/cms1/include/config.php",
+		"/opt/lampp/htdocs/cms1/index.php",
+		"/opt/lampp/htdocs/cms1/logout.php",
+		"/opt/lampp/htdocs/cms1/check_login.php",
+		"/opt/lampp/htdocs/cms1/login.php",
+		"/opt/lampp/htdocs/cms/admin/pages/login.html",
+		"/opt/lampp/htdocs/cms/admin/users.php",
+		"/opt/lampp/htdocs/cms/admin/logout.php",
+		"/opt/lampp/htdocs/cms/admin/index.php",
+		"/opt/lampp/htdocs/cms/admin/includes/config.php",
+		"/opt/lampp/htdocs/cms/admin/includes/footer.php",
+		"/opt/lampp/htdocs/cms/admin/check_login.php",
+		"/opt/lampp/htdocs/cms/admin/login.php",
+		"/opt/lampp/htdocs/cms/admin/startbootstrap-sb-admin-2-1.0.8/pages/login.html",
+		"/opt/lampp/htdocs/cms/admin/includes/header.php",
+		"/opt/lampp/htdocs/cms/notes.txt",
+		"/opt/lampp/htdocs/cms/includes/config.php",
+		"/opt/lampp/htdocs/cms/includes/db_conn.php",
+		"/opt/lampp/htdocs/cms/index.php",
+		"/opt/lampp/htdocs/aman/index.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"weblink",
+			"dmailer",
+			"contact_us",
+			"$j",
+			"contact",
+			"redir",
+			"$fields",
+			"cat",
+			"CIWEB",
+			"$j",
+			"descri",
+			"descrip",
+			"detail",
+			"direc",
+			"filterArray",
+			"media",
+			"is_in_stock",
+			"index",
+			"detai",
+			"specifi",
+			"edit",
+			"edi",
+			"contact",
+			"images/",
+			"cache",
+			"img",
+			"product",
+			"<img",
+			"categor",
+			"view",
+			"status_action",
+			"Delete",
+			"form",
+			"Record has been deleted successfully",
+			"arr_ids",
+			"product_img_delete",
+			"pdf_allow_size",
+			"pdf",
+			"how_to_care",
+			"delete",
+			"$res",
+			"pageVal",
+			"filterArray",
+			"res_photo_media",
+			"edit",
+			"zend",
+			"curl",
+			"email",
+			"short_open_tag",
+			"phpdbg",
+			"config",
+			"php-config",
+			"xtension",
+			"extension",
+			"icon",
+			"debug",
+			".so",
+			"curl",
+			"php_curl",
+			"extension",
+			"res_photo_media",
+			"tab-",
+			"image",
+			"ckedit",
+			"description",
+			"ckedit",
+			"set_ck_config",
+			"add_product_media",
+			"image",
+			"allow.file.size",
+			"menu_highlight",
+			"load->model",
+			"CWD",
+			"Category",
+			"set as",
+			"logged_in",
+			"ECIS",
+			"a2zcontrols",
+			"../"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$",
+			"MARATHON",
+			"$",
+			"<?php echo theme_url();?>images/",
+			"Marathon",
+			"CIWEB",
+			"ciweb",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 25,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4025,
+								4025
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2838.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier_ssa_250m.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12626,
+								12626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2888.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14357,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5565,
+								5565
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1576.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/controllers/products.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16808,
+								16808
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9474.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1469,
+								1469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 608.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2526,
+								2526
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/top_application.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2939,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1763,
+								1763
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/designer/themes/default/js/custom.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								25
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_edit.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2472,
+								2472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1224.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_category_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5107,
+								5107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3116.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/libraries/MY_Upload.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1077,
+								1077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/controllers/products.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2829,
+								2829
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2346.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/models/product_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1942,
+								1942
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1304.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/helpers/ckeditor_helper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7668,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4992,
+								4992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4480.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/assets/developers/js/ckeditor/config.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 365,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								302,
+								302
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier_pam-3001z.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5472,
+								5472
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2310.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/html/amplifier_dpa-770.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19929,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12844,
+								12844
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2838.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5989,
+								5989
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2932.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/views/catalog/view_product_list.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4276,
+								4276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/views/view_product_listing.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 940,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/views/view_product_details.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/sitepanel/language/english/admin_lang.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4560,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3685,
+								3685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1518.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/config/application.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/products/helpers/product_helper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3516,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3309,
+								3309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1546.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/codeigniter/helpers/url_helper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11218,
+								11218
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 11498.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1156,
+								1156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/marathon/codeigniter/libraries/Email.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31871,
+								31871
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 31144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11296,
+								11296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6062.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/controllers/pages.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7692,
+								7692
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5022.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/ciweb/modules/pages/controllers/pages.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3752,
+								3752
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2566.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/models/pages_model.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1046,
+								1046
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 31,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/helpers/display_message_helper.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/pages/views/contactus.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6762,
+								6762
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2844.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_right.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3438,
+								3438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1964.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/modules/category/views/view_subcategory.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1243,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1198,
+								1198
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 556.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": "/media/jarvez/skydrive/ubuntu/lampp/clients/marathon/ciweb/apps/views/project_footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								179,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 142.0
+	},
+	"pinned_build_system": "",
+	"project": "my.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 2
+				},
+				"18":
+				{
+					"group": 0,
+					"index": 3
+				},
+				"19":
+				{
+					"group": 0,
+					"index": 4
+				},
+				"20":
+				{
+					"group": 0,
+					"index": 5
+				},
+				"22":
+				{
+					"group": 0,
+					"index": 6
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

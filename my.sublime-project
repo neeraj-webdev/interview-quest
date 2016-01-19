@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"path": "/media/jarvez/skydrive/ubuntu/lampp"
+		}
+	],
+	"settings": {
+		"xdebug": {
+			"url": "http://localhost/practice-zone/sortings/",
+		}
+	}
+}

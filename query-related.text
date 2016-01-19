@@ -1,0 +1,23 @@
+INSERT INTO `table1`(`name`, `email`, `status`) VALUES ('Neeraj','neeraj.webdev@gmail.com','Y');
+INSERT INTO `table1`(`name`, `email`, `status`) VALUES ('Neeraj','neeraj.webdev@gmail.com','Y');
+INSERT INTO `table1`(`name`, `email`, `status`) VALUES ('kumar','kumar.webdev@gmail.com','Y');
+INSERT INTO `table1`(`name`, `email`, `status`) VALUES ('kumar','kumar.webdev@gmail.com','Y');
+INSERT INTO `table1`(`name`, `email`, `status`) VALUES ('sonu','sonu.webdev@gmail.com','Y');
+
+
+
+
+
+
+ALTER IGNORE TABLE `TableA`   
+ADD UNIQUE INDEX (`member_id`, `quiz_num`, `question_num`, `answer_num`);
+
+or 
+
+
+DELETE FROM member  
+WHERE id IN (SELECT * 
+             FROM (SELECT id FROM member 
+                   GROUP BY member_id, quiz_num, question_num, answer_num HAVING (COUNT(*) > 1)
+                  ) AS A
+            );

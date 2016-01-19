@@ -1,0 +1,34 @@
+https://www.rankwatch.com/careers.html 
+
+---->>> TELEPHONIC ON 31ST DECEMBER 12:00 PM.
+
+PHP Software Engineer
+
+Number of Openings: 2
+
+Minimum Work Experience: 2- 5 Years
+
+Role: Full-Time
+
+ 
+
+Job Description
+
+Understanding Web Services, RPC, XHR, SOAP
+
+Knowledge of Regex i.e. regexp pattern matching
+
+SQL knowledge and idea about Indexing, Joins, Sub Queries,Relational databases in mysql, Storage Engines like: MYISAM & INNODB
+
+PDO OR MYSQLI and storage procedure of data
+
+Good command on Frameworks based on MVC pattern
+
+Core knowledge of PHP or JS things like:
+a. Version Update and Importance/Improvements in each
+b.  Inbuilt PHP array & string function
+c.  PHP Profilers
+d.  Clear Knowledge about exceptional handing
+e.  Debugging, Memory Allocation, Deallocation and many more.
+
+Scale and Big Data problems and solutions available especially when it comes to searching.
